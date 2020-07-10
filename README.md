@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on cool 
+- 🌱 I’m currently learning Delta lake, and Apache Flink
+- 👯 I’m looking to collaborate on sgx-scribe project https://github.com/moorjani-ajay/sgx-scribe
+- 💬 Ask me about anything realted to data !!
+- ⚡ Fun fact: I have visited 11 countries in my life before turning 25
