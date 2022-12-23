@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭🌱🚀 I’m currently building Topview[topview.app]. Go ahead and Signup to be among the first to experience this innovative new service.
+- 🔭🌱🚀 I’m currently building Topview [topview.app]. Go ahead and Signup to be among the first to experience this innovative new service.
 - ⚡ Fun fact: I have visited 11 countries in my life before turning 25
