@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on real-time analytics using Kafka, Kafka Connectors and Spark
-- 🌱 I’m currently learning Delta lake, and Apache Flink
-- 👯 I’m looking to collaborate on sgx-scribe project https://github.com/moorjani-ajay/sgx-scribe
-- 💬 Ask me about anything realted to data !!
+- 🔭🌱🚀 I’m currently building Topview[topview.app]. Go ahead and Signup to be among the first to experience this innovative new service.
 - ⚡ Fun fact: I have visited 11 countries in my life before turning 25
