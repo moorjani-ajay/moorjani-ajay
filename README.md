@@ -4,7 +4,7 @@
 **moorjani-ajay/moorjani-ajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- ⚡ Fun fact: I have visited 11 countries in my life before turning 25
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭🌱🚀 I’m currently building Topview [topview.app]. Go ahead and Signup to be among the first to experience this innovative new service.
-- ⚡ Fun fact: I have visited 11 countries in my life before turning 25
+- 🔭🌱🚀 I’m currently building FLEXR [getflexr.com]. At FLEXR, we are using Computer Vision to improve athletic performance 🏃. Go ahead and signup to be among the first to experience the product.
+
