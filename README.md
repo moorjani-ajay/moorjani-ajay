@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 - 🔭🌱🚀 I’m currently building (FLEXR)[getflexr.com]. At FLEXR, we are using Computer Vision to improve athletic performance 🏃. Go ahead and signup to be among the first to experience the product.
+-->
 
+I uncover stories hidden in data.
